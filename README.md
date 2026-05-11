@@ -2,8 +2,17 @@
 
 > 손님의 마음에 어울리는 식물을 골라주는 캐주얼 힐링 게임
 
+[![Play Now](https://img.shields.io/badge/▶%20지금%20플레이하기-game--little--leaf--shop.vercel.app-6EA86A?style=for-the-badge)](https://game-little-leaf-shop.vercel.app/)
+
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-배포됨-000000?logo=vercel&logoColor=white)
+
+## 🎮 바로 플레이
+
+**👉 [https://game-little-leaf-shop.vercel.app/](https://game-little-leaf-shop.vercel.app/)**
+
+별도 설치 없이 브라우저에서 바로 플레이할 수 있어요.
 
 ## 소개
 
